@@ -1,4 +1,4 @@
-### Opa! Joás Martins, eu mesmo
+### Opa! Eu mesmo, Joás Martins aqui.
 
 - 🔭 Atualmente trabalho com Back-End
 - 🌱 No momento estudando React Native
