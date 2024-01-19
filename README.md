@@ -6,7 +6,10 @@
 - 📫 Me contate em: joasmcarmo@gmail.com
 - ⚡ Fato curioso: Minha paixão por programação começou em 2020 no meio da pandemia da COVID-19, foi então quando eu tive uma ideia para poder resolver o problema em que os pofessores tinha de entregar os conteúdos para os alunos, foi através disso que eu pensei em desenvovler uma ferramenta exclusiva para isso. O desenvolvimento foi bem sucessido, os professores e diretores aceitaram meu projeto mas infelizmente não ocorreu como esperado por falta de disposição dos alunos em fazer as atividades. Por fim eu levo como aprendizado e experiência para a minha vida, sei que posso fazer melhor a cada novo projeto.
 
-##
+## 💻 Fundador da Equipe Applicco - Aplicativos e Softwares.
+- 🌐 Site: www.applicco.com.br
+- 📷 Instagram: https://instagram.com/appliccoapps
+- ✉ Contato: contato@applicco.com.br
 
 <picture>
   <source 
