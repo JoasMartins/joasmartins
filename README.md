@@ -8,13 +8,13 @@
 
 ## 📖 Sobre mim  
 
-Iniciei minha jornada acadêmica em 08/2025 mas já estou na área desde 06/2020, no meio da pandemia, onde sofremos com a falta de ferramentas para estudos nas escolas de ensino médio e básico. Diante disso, criei soluções, entrando no mercado de T.I, com meu primeiro projeto sendo **BOT para Discord**, com funções para gerenciar as entregas de atividades dos professores aos alunos.
+Iniciei minha jornada acadêmica em 08/2025 mas já estou na área desde **_06/2020_**, no meio da pandemia, onde sofremos com a falta de ferramentas para estudos nas escolas de ensino médio e básico. Diante disso, criei soluções, entrando no mercado de T.I, com meu primeiro projeto sendo **BOT para Discord**, com funções para gerenciar as entregas de atividades dos professores aos alunos.
 
 Após este projeto, me aprofundei mais na área, e hoje tenho conhecimento e experiência em **desenvolvimento de sites**, **aplicativos mobile e desktop**, **API e sistemas**, **banco de dados**, **modelos de IA**, **Chatbots**, entre outros projetos.
 
-Com isso, aprendi a utilizar novas linguagens e tecnologias, confira elas em [Tecnologias & Ferramentas > Linguagens e Tecnologias](#linguagens-e-tecnologias).
+Com isso, aprendi a utilizar novas linguagens e tecnologias, confira elas em [Tecnologias & Ferramentas > Linguagens e Tecnologias](#-linguagens-e-tecnologias).
 
-Também me familiarizei com a **Arquitetura de Softwares**, utilizando ferramentas de planejamento e gestão de desenvolvimento de softwares, confira elas em [Tecnologias & Ferramentas > Arquitetura de Softwares](#arquitetura-de-softwares).
+Também me familiarizei com a **Arquitetura de Softwares**, utilizando ferramentas de planejamento e gestão de desenvolvimento de softwares, confira elas em [Tecnologias & Ferramentas > Arquitetura de Softwares](#-arquitetura-de-softwares).
 
 ---
 
@@ -33,7 +33,7 @@ Também me familiarizei com a **Arquitetura de Softwares**, utilizando ferrament
   <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"/>
 </div>  
 
-### Linguagens e Tecnologias
+### 💻 Linguagens e Tecnologias
 - **React**
 - **React Native**
 - **NextJS**
@@ -44,7 +44,7 @@ Também me familiarizei com a **Arquitetura de Softwares**, utilizando ferrament
 - **Electron**
 - **MongoDB**
 
-### Arquitetura de Softwares
+### 🖋️ Arquitetura de Softwares
 - **Trello**
 - **Github**
 - **GitFlow**
