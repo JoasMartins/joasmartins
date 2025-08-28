@@ -12,9 +12,9 @@ Iniciei minha jornada acadêmica em 08/2025 mas já estou na área desde 06/2020
 
 Após este projeto, me aprofundei mais na área, e hoje tenho conhecimento e experiência em **desenvolvimento de sites**, **aplicativos mobile e desktop**, **API e sistemas**, **banco de dados**, **modelos de IA**, **Chatbots**, entre outros projetos.
 
-Com isso, aprendi a utilizar novas linguagens e tecnologias, confira elas em [Tecnologias & Ferramentas > Linguagens e Tecnologias](https://github.com/JoasMartins/joasmartins/blob/main/README.md#linguagens-e-tecnologias).
+Com isso, aprendi a utilizar novas linguagens e tecnologias, confira elas em [Tecnologias & Ferramentas > Linguagens e Tecnologias](https://github.com/JoasMartins/README.md#linguagens-e-tecnologias).
 
-Também me familiarizei com a **Arquitetura de Softwares**, utilizando ferramentas de planejamento e gestão de desenvolvimento de softwares, confira elas em [Tecnologias & Ferramentas > Arquitetura de Softwares](https://github.com/JoasMartins/joasmartins/blob/main/README.md#arquitetura-de-softwares).
+Também me familiarizei com a **Arquitetura de Softwares**, utilizando ferramentas de planejamento e gestão de desenvolvimento de softwares, confira elas em [Tecnologias & Ferramentas > Arquitetura de Softwares](https://github.com/JoasMartins/README.md#arquitetura-de-softwares).
 
 ---
 
