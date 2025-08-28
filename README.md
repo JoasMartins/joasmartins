@@ -14,7 +14,7 @@ Após este projeto, me aprofundei mais na área, e hoje tenho conhecimento e exp
 
 Com isso, aprendi a utilizar novas linguagens e tecnologias, confira elas em [Tecnologias & Ferramentas > Linguagens e Tecnologias](#linguagens-e-tecnologias).
 
-Também me familiarizei com a **Arquitetura de Softwares**, utilizando ferramentas de planejamento e gestão de desenvolvimento de softwares, confira elas em [Tecnologias & Ferramentas > Arquitetura de Softwares](https://github.com/JoasMartins/README.md#arquitetura-de-softwares).
+Também me familiarizei com a **Arquitetura de Softwares**, utilizando ferramentas de planejamento e gestão de desenvolvimento de softwares, confira elas em [Tecnologias & Ferramentas > Arquitetura de Softwares](#arquitetura-de-softwares).
 
 ---
 
@@ -49,26 +49,6 @@ Também me familiarizei com a **Arquitetura de Softwares**, utilizando ferrament
 - **Github**
 - **GitFlow**
 - **ClickUp**
-
----
-
-## 📊 Estatísticas  
-
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=JoasMartins&show_icons=true&theme=tokyonight&v=2"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=JoasMartins&show_icons=true" />
-</picture>
-
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JoasMartins&layout=compact&theme=tokyonight&v=2"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoasMartins&layout=compact" />
-</picture>  
 
 ---
 
