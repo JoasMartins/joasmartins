@@ -14,7 +14,7 @@ Após este projeto, me aprofundei mais na área, e hoje tenho conhecimento e exp
 
 Com isso, aprendi a utilizar novas linguagens e tecnologias, confira elas em [Tecnologias & Ferramentas > Linguagens e Tecnologias](#-linguagens-e-tecnologias).
 
-Também me familiarizei com a **Arquitetura de Softwares**, utilizando ferramentas de planejamento e gestão de desenvolvimento de softwares, confira elas em [Tecnologias & Ferramentas > Arquitetura de Softwares](#-arquitetura-de-softwares).
+Também me familiarizei com a **Arquitetura de Softwares**, utilizando ferramentas de planejamento e gestão de desenvolvimento de softwares, confira elas em [Tecnologias & Ferramentas > Arquitetura de Softwares](#%EF%B8%8F-arquitetura-de-softwares).
 
 ---
 
@@ -44,7 +44,7 @@ Também me familiarizei com a **Arquitetura de Softwares**, utilizando ferrament
 - **Electron**
 - **MongoDB**
 
-### 🖋️ Arquitetura de Softwares
+### 🖊️ Arquitetura de Softwares
 - **Trello**
 - **Github**
 - **GitFlow**
