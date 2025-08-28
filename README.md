@@ -52,6 +52,12 @@ Também me familiarizei com a **Arquitetura de Softwares**, utilizando ferrament
 
 ---
 
+## 💻 Projetos
+
+Atualmente possuo o site da **Applicco Apps** publicado, podendo ser acessado em www.applicco.com.br.
+
+---
+
 ## 🌐 Conecte-se comigo  
 
 <div>
